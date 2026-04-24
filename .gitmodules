@@ -1,0 +1,3 @@
+[submodule "firmware"]
+	path = codebase
+	url = git@github.com:piyeldev/robotics-swagi-code.git
